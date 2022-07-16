@@ -14,8 +14,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
-## ⚙ &nbsp;GitHub Analytics 
- 
+
+
+## ⚙ Estatísticas 
+
  
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
