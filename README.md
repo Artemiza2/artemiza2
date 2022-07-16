@@ -7,6 +7,7 @@
 📱 Contato (00) 0000000           
 
 
+
 ## 📚 Tecnologias!
 
 ![Angular](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)&nbsp;
