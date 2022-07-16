@@ -13,6 +13,8 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![GITHUB](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js)&nbsp;
 
 
 
