@@ -1,4 +1,4 @@
-### OLÁ ARTEMIZA 👋
+### OLÁ SOU ARTEMIZA 👋
 
 👩 Desenvolvedora de Software Front End     
 🚋 Estudando na DIO        
